@@ -1,0 +1,159 @@
+@charset "UTF-8";
+/*CSS document*/
+
+body {
+	font-family: Helvetica, sans-serif;
+	font-size: 15px;
+	color: white;
+
+}
+
+
+.hidden {
+	display: none;
+}
+
+.mainContainer {
+	width: 1280px;
+	margin: 0 auto;
+	font-size: 15px;
+	background-image: url('https://images.pexels.com/photos/3786208/pexels-photo-3786208.jpeg?crop=entropy&cs=srgb&dl=photo-of-fern-leaves-3786208.jpg&fit=crop&fm=jpg&h=1919&w=1280');
+}
+
+.mainHeader {
+	width: 100%;
+	height: 150px;
+	margin: 0 auto;
+	background-color: #706a5b;
+	display: flex;
+	flex-wrap: wrap;
+	position: fixed;
+}
+
+.logo {
+	width: 40%;
+	height: 90px;
+	padding-top: 20px;
+	padding-left: 30px;
+	position: static;
+}
+
+.mainNav {
+	width: 640px;
+	margin-top: 60px;
+	margin-right: 20px;
+	margin-left: auto;
+
+}
+
+.mainNav ul {
+	list-style-type: none;
+}
+
+.mainNav ul li {
+	float: left;
+} 
+
+.mainNav ul li a {
+	display: block;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: 10px;
+	padding: 10px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	border-radius: 10px;
+	cursor: pointer;
+
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+}
+
+.mainNav ul li a:hover {
+	background-color: #2f3226;
+	border-radius: 10px;
+	color: #a9a9a9;
+}
+
+
+
+
+
+
+
+.bodyContainer {
+	width: 100%;
+	height: 400px;
+
+}
+
+.profiles {
+	padding-top: 300px;
+	padding-left: 40px;
+	position: static;
+}
+
+.profiles img:hover {
+	opacity: .6;
+	cursor: pointer;
+}
+
+
+
+
+
+#footerNav {
+	width: 100%;
+	height: 100px;
+	margin-top: 60px;	
+}
+.footerNav {
+	width: 100%;
+	height: 130px;
+	margin-top: 670px;
+	padding-left: 620px;
+	background-color: #706a5b;
+	opacity: .7;	
+}
+
+
+.footerNav ul {
+	list-style-type: none;
+}
+
+.footerNav ul li {
+	float: left;
+} 
+
+.footerNav ul li a {
+	display: block;
+	color: white;
+	font-size: 15px;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: 50px;
+	padding: 10px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	border-radius: 10px;
+	cursor: pointer;
+
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+}
+
+.footerNav ul li a:hover {
+	background-color: #2f3226;
+	border-radius: 10px;
+	color: #a9a9a9;
+}
+
+
+
+
