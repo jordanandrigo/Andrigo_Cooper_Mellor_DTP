@@ -4,12 +4,15 @@
 
 *Hover the cursor over the members or click to view member's bio.*
 
-Built with JS.
+### Built with:
+CSS\
+HTML\
+JavaScript
 
-## Licence
+### Licence
 MIT
 
-## Authors
-Jordan Andrigo
-Tessa Benton-Cooper
-Spencer Mellor
+### Authors
+Jordan Andrigo\
+Tessa Benton-Cooper\
+Spencer Mellor\
