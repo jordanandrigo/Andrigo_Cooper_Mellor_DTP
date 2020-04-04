@@ -15,4 +15,4 @@ MIT
 ### Authors
 Jordan Andrigo\
 Tessa Benton-Cooper\
-Spencer Mellor\
+Spencer Mellor
